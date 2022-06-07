@@ -1,0 +1,130 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/Revista.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 622px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  font-family: LEMONMILK-Regular;
+  margin: 135px 345px 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2.25rem;
+  background-image: none;
+  margin: 8px 512px 0 20px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px auto -48px 20px;
+  padding: 9px 38px 11px 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 573px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 134px;
+    margin-right: 165px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 332px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 527px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 162px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-top: 11px;
+    margin-right: 112px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1rem;
+    padding: 10px 25px 10px 23px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 468px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 133px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 13px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 13px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 135px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 11px;
+    font-size: 1.25rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: 11px;
+    padding: 5px 15px 7px 13px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 569px;
+}@font-face {
+  font-family: 'LEMONMILK-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LEMONMILK-Regular.otf);
+}@font-face {
+  font-family: 'OPTINonoy-Ultra';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/OPTINonoy-Ultra.otf);
+}
